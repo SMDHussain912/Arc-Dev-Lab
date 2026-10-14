@@ -44,7 +44,7 @@ Rather than keeping everything I learn in separate places, this lab brings my ex
 
 ### 🔥 Contribution Activity
 
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=SMDHussain912&theme=tokyo-night&hide_border=true)](https://github.com/SMDHussain912)
+[![GitHub Profile](https://img.shields.io/badge/View-GitHub_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/SMDHussain912)
 
 *These statistics reflect activity across my GitHub account and may take time to update.*
 
