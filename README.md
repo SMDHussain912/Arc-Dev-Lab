@@ -32,11 +32,31 @@ Rather than keeping everything I learn in separate places, this lab brings my ex
 
 *Technologies and topics will evolve as I continue learning.*
 
+## 📊 GitHub Dashboard
+
+### 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMDHussain912&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMDHussain912&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🔥 Contribution Activity
+
+[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=SMDHussain912&theme=tokyo-night&hide_border=true)](https://github.com/SMDHussain912)
+
+*These statistics reflect activity across my GitHub account and may take time to update.*
+
 ## 📂 Repository Structure
 
 ```text
 Arc-Dev-Lab/
 ├── programming/
+│   ├── c/
+│   ├── cpp/
+│   ├── java/
+│   └── python/
 ├── web-development/
 ├── databases/
 ├── machine-learning/
@@ -45,6 +65,8 @@ Arc-Dev-Lab/
 ├── algorithms-and-dsa/
 ├── mini-projects/
 ├── prototypes/
+├── templates/
+│   └── experiment-template.md
 └── README.md
 ```
 
@@ -96,6 +118,6 @@ Unless otherwise specified, the projects in this repository are provided under t
 
 ---
 
-**Built with curiosity by SMDHussain(Arc).** 🧪
+**Built with curiosity by [SMDHussain (Arc)](https://github.com/SMDHussain912).** 🧪
 
 *Keep experimenting. Keep building. Keep learning.*
